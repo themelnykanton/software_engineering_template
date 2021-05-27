@@ -5,15 +5,15 @@
 ## Налаштування проекту
 Для початку потрібно:
 
-1. Клонувати проект за допомогою команди `git clone ССЫЛКА НА РЕПУ`
+1. Клонувати проект за допомогою команди `git clone https://github.com/themelnykanton`
 
 2. Встановити всі потрібні модулі командою `npm install @tensorflow/tfjs`
 
 >[Пояснювальна записка](docs/introduction.md)
 
 ## Контактна інформація
-* Телеграм - 
-* Робочий e-mail - 
+* Телеграм - @themelnykanton
+* Робочий e-mail - antonmelnyk5@gmail.com
 
 ## Інше
 [Методичні вказівки](https://jace-dev.herokuapp.com/design/js-talks#/)
