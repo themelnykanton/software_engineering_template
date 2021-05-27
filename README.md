@@ -5,7 +5,7 @@
 ## Налаштування проекту
 Для початку потрібно:
 
-1. Клонувати проект за допомогою команди `git clone https://github.com/themelnykanton`
+1. Клонувати проект за допомогою команди `git clone https://github.com/themelnykanton/software_engineering_template`
 
 2. Встановити всі потрібні модулі командою `npm install @tensorflow/tfjs`
 
